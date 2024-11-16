@@ -304,7 +304,7 @@ function App() {
             <div className="space-y-4 text-center md:text-left">
               <div className="flex items-center gap-2 justify-center md:justify-start">
                 <CreditCardIcon className="h-8 w-8 text-gray-900" />
-                <span className="text-xl font-['Montserrat'] text-gray-800">BankRatings</span>
+                <span className="text-xl font-['Montserrat'] text-gray-800">BankRatings.do</span>
               </div>
               <p className="text-sm text-gray-600">
               BankRatings, LLC.<br />
