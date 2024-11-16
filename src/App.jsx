@@ -72,7 +72,7 @@ function App() {
       <nav className="flex justify-center items-center py-4 px-6 bg-white shadow-sm">
         <div className="flex items-center gap-2">
           <CreditCardIcon className="h-8 w-8 text-gray-900" />
-          <span className="text-2xl font-['Montserrat'] text-gray-800 tracking-tight">BankRatings</span>
+          <span className="text-2xl font-['Montserrat'] text-gray-800 tracking-tight">BankRatings.do</span>
         </div>
       </nav>
 
